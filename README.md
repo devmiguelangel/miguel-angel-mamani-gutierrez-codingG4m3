@@ -50,13 +50,13 @@ A basic example is demonstrated in the screenshot below:
 **Requirements**
 
 
-- Create Vue componests to display the card.
-- the Types (if there are more than one) should all be presented in one comma-separated string.
+- Create Vue.js compoent to display the card.
+- The Types (if there are more than one) should be presented in one comma-separated string.
 - Your code should be able to run on a local development server like [http-server](https://www.npmjs.com/package/http-server)
 
 **Other notes**
 - If you use other build tools, please provide documentation and place it in the `coding-1` folder as `pokeCard-readme.md` (.txt format also acceptable)
-- For this exercise you don't need to worry about CSS or styling
+
 - It is up to you to determine how to handle issues like client-side validation and error handling.
 
 **Submitting** 
